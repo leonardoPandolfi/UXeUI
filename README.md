@@ -1,4 +1,4 @@
-### Só salvinho professor 👋
+### 
 
 Sobre o site  " bechdeltest.com ":
 
