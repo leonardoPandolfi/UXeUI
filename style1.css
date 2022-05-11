@@ -1,0 +1,40 @@
+body{
+    align-items: center;
+    text-align: center;
+    background:linear-gradient(#5c5b5b,#000000,#535252);
+}
+
+.tr{
+    background-color:bisque;
+    font-size: large;
+}
+
+
+.fundotable{
+    background-color: rgb(214, 127, 127);
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    border-color: black;
+    opacity:80%;
+
+}
+
+
+
+.td{
+    color: white;
+}
+
+.button {
+    background-color: #151b15; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
