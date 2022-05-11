@@ -1,9 +1,6 @@
 ### 
 
-Sobre o site  " bechdeltest.com ":
-
-A função do site é bem executada, os resultados em si estão corretos, o objetivo do site é cumprido, porem esse é o unico ponto positivo.Um filme interessante na minha opinião foi: "Zack Snyder's Justice League", ele está dentro das 3 regras e é um filme muito bom. Um filme que não passou nas 3 regras que eu achei interessante foi "The Conjuring: The Devil Made Me Do It".
-Visualmente o site poderia ter muitas melhoras, colocar o formulário para o usuario preencher com o filme que deseja no início, em destaque, a direita do site, enquanto na esquerda a tabela de filmes que já foram pesquisados com os seus resultados, fazer algumas divisões mais trabalhadas para ficar fácil de visualizar, seriam coisas que melhorariam o site.
+Primeiro projeto utilizando html e css.
 
 <!--
 **leonardoPandolfi/leonardoPandolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
